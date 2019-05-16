@@ -96,7 +96,30 @@
           <entry key="project.closed" value="2" />
           <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.73" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="pickle" value="1" />
+          <entry key="py" value="14" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Python" value="14" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="23" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="23" />
         </counts>
       </usages-collector>
     </session>
@@ -107,32 +130,112 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Automatic_Speech_Recognition_master/LICENSE.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DataBaseConnection.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Automatic_Speech_Recognition_master/flac_to_wav.sh">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Automatic_Speech_Recognition_master/CODEOWNERS">
+        <entry file="file://$PROJECT_DIR$/machineLearning/machinelearnkazzle.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="18" />
+            <state relative-caret-position="-756">
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Automatic_Speech_Recognition_master/char_map.py">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/machineLearning/tic_tack_by_dfs.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#36#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/machineLearning/Tic_tack_min_max.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/machineLearning/Sandextutorial/knearest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/machineLearning/Sandextutorial/kmeanstitanic.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/machineLearning/Sandextutorial/kmeansclusturing.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/machineLearning/Sandextutorial/custommenshift.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/machineLearning/Sandextutorial/customkmeans.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/machineLearning/Sandextutorial/2ndtutorial.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/machineLearning/Sandextutorial/naive_bayas.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="217">
+              <caret line="180" column="51" selection-start-line="180" selection-start-column="51" selection-end-line="180" selection-end-column="51" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -145,12 +248,13 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/naturallanguageprocessing/lematizer.py" />
         <option value="$PROJECT_DIR$/naturallanguageprocessing/stemmr.py" />
         <option value="$PROJECT_DIR$/naturallanguageprocessing/replace.py" />
         <option value="$PROJECT_DIR$/chatbot/chatbot_database.py" />
@@ -201,6 +305,7 @@
         <option value="$PROJECT_DIR$/Automatic_Speech_Recognition_with_Multi_Models-master/preprocess/core/nist2wav.py" />
         <option value="$PROJECT_DIR$/End-to-End-Automatic-Speech-Recognition-Models-master/src/utils/timit_preprocess.py" />
         <option value="$PROJECT_DIR$/chatbot/featureextraction.py" />
+        <option value="$PROJECT_DIR$/machineLearning/Sandextutorial/naive_bayas.py" />
       </list>
     </option>
   </component>
@@ -223,6 +328,21 @@
               <item name="havingnewinPython" type="b2602c69:ProjectViewProjectNode" />
               <item name="havingnewinPython" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="havingnewinPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="havingnewinPython" type="462c0819:PsiDirectoryNode" />
+              <item name="machineLearning" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="havingnewinPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="havingnewinPython" type="462c0819:PsiDirectoryNode" />
+              <item name="Networking" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="havingnewinPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="havingnewinPython" type="462c0819:PsiDirectoryNode" />
+              <item name="pythonpackages" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -231,8 +351,8 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.gitattributes" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/Networking/dog.jpg" />
   </component>
   <component name="RecentsManager">
@@ -256,7 +376,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.featureextraction">
+  <component name="RunManager" selected="Python.Tic_tack_min_max">
+    <configuration name="Tic_tack_min_max" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="havingnewinPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="F:\havingnewinPython\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/machineLearning/Tic_tack_min_max.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="havingnewinPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -299,6 +440,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="naive_bayas" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="havingnewinPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="F:\havingnewinPython\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/machineLearning/Sandextutorial/naive_bayas.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="timit_preprocess (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="havingnewinPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -312,48 +474,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/End-to-End-Automatic-Speech-Recognition-Models-master/src/utils/timit_preprocess.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="timit_preprocess" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="havingnewinPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="F:\havingnewinPython\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Automatic_Speech_Recognition_with_Multi_Models-master/preprocess/timit/timit_preprocess.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="train_utils" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="havingnewinPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="F:\havingnewinPython\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Automatic-Speech-Recognition-master/train_utils.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -384,19 +504,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.train_utils" />
       <item itemvalue="Python.featureextraction" />
-      <item itemvalue="Python.timit_preprocess" />
       <item itemvalue="Python.utils" />
       <item itemvalue="Python.timit_preprocess (1)" />
+      <item itemvalue="Python.naive_bayas" />
+      <item itemvalue="Python.Tic_tack_min_max" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Tic_tack_min_max" />
+        <item itemvalue="Python.naive_bayas" />
         <item itemvalue="Python.featureextraction" />
         <item itemvalue="Python.timit_preprocess (1)" />
         <item itemvalue="Python.utils" />
-        <item itemvalue="Python.timit_preprocess" />
-        <item itemvalue="Python.train_utils" />
       </list>
     </recent_temporary>
   </component>
@@ -423,14 +543,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="103" y="101" width="867" height="688" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49884528" visible="true" weight="0.11580217" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49884528" visible="true" weight="0.20386904" />
       <window_info id="Structure" order="1" sideWeight="0.5011547" side_tool="true" weight="0.140625" />
       <window_info id="Favorites" order="2" sideWeight="0.5011547" side_tool="true" weight="0.140625" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49627978" visible="true" weight="0.299509" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49627978" visible="true" weight="0.29787233" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -448,21 +568,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/tensorflow-speech-recognition-master/requirements.txt" />
-    <entry file="file://$PROJECT_DIR$/tensorflow-speech-recognition-master/record-autoencoder.py" />
-    <entry file="file://$PROJECT_DIR$/tensorflow-speech-recognition-master/record.py" />
-    <entry file="file://$PROJECT_DIR$/tensorflow-speech-recognition-master/images/0_Karen_160.png" />
-    <entry file="file://$PROJECT_DIR$/tensorflow-speech-recognition-master/images/spectrogram.demo.png" />
-    <entry file="file://$PROJECT_DIR$/tensorflow-speech-recognition-master/images/tensorboard.png" />
-    <entry file="file://$PROJECT_DIR$/tensorflow-speech-recognition-master/extra/phonemes.txt" />
-    <entry file="file://$PROJECT_DIR$/tensorflow-speech-recognition-master/extra/generate_sound.py" />
-    <entry file="file://$PROJECT_DIR$/tensorflow-speech-recognition-master/extra/cepstrum.py" />
-    <entry file="file://$PROJECT_DIR$/tensorflow-speech-recognition-master/lstm_mfcc_to_chars.py" />
-    <entry file="file://$PROJECT_DIR$/Automatic_Speech_Recognition_with_Multi_Models-master/requirement.txt" />
-    <entry file="file://$PROJECT_DIR$/Automatic_Speech_Recognition_with_Multi_Models-master/README.md" />
-    <entry file="file://$PROJECT_DIR$/Automatic_Speech_Recognition_with_Multi_Models-master/models.py" />
-    <entry file="file://$PROJECT_DIR$/Automatic_Speech_Recognition_with_Multi_Models-master/cells.py" />
-    <entry file="file://$PROJECT_DIR$/Automatic_Speech_Recognition_with_Multi_Models-master/preprocess/core/__init__.py" />
     <entry file="file://$PROJECT_DIR$/Automatic_Speech_Recognition_with_Multi_Models-master/preprocess/timit/__init__.py" />
     <entry file="file://$PROJECT_DIR$/Automatic_Speech_Recognition_with_Multi_Models-master/utils.py" />
     <entry file="file://$PROJECT_DIR$/End-to-End-Automatic-Speech-Recognition-Models-master/src/main/__init__.py" />
@@ -533,6 +638,122 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DataBaseConnection.py">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/machineLearning/Sandextutorial/DeepLearning/sentiment_set.pickle">
+      <provider selected="true" editor-type-id="LargeFileEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/machineLearning/Sandextutorial/DeepLearning/create_sentiment_featuresets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1386">
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Networking/logisticregressiontensorflow.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Networking/Servers.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Networking/tensorflowcifrdataset.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/machineLearning/machinelearnkazzle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-756">
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/machineLearning/tic_tack_by_dfs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/machineLearning/Sandextutorial/knearest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/machineLearning/Sandextutorial/kmeanstitanic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/machineLearning/Sandextutorial/kmeansclusturing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/machineLearning/Sandextutorial/custommenshift.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/machineLearning/Sandextutorial/customkmeans.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/machineLearning/Sandextutorial/2ndtutorial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/machineLearning/Sandextutorial/naive_bayas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="180" column="51" selection-start-line="180" selection-start-column="51" selection-end-line="180" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/machineLearning/Tic_tack_min_max.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
